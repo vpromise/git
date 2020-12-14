@@ -12,3 +12,6 @@ This file is my note for git learning.
 git add readme.md
 git commit -m "new readme.md files"
 ```
+
+`git status`
+ 
