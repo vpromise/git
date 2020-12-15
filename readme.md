@@ -13,7 +13,9 @@ git add readme.md
 git commit -m "new readme.md files"
 ```
 
-`git status`
-`git diff`
+查看状态 `git status`
+查看不同 `git diff`
+查看日志 `git log` or `git log --pretty=oneline`
 
-Add new line
+版本回退 `git reset -hard HEAD^` or `git reset -hard <commit id>`
+    `HEAD^` `HEAD^^` `HEAD~100`
