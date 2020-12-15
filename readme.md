@@ -14,4 +14,6 @@ git commit -m "new readme.md files"
 ```
 
 `git status`
- 
+`git diff`
+
+Add new line
