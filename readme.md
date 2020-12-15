@@ -20,5 +20,4 @@ git commit -m "new readme.md files"
 * 版本回退 `git reset -hard HEAD^` or `git reset -hard <commit id>`
    - 参数： `HEAD^` `HEAD^^` `HEAD~100`
 
-
 master or branch
