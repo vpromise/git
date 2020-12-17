@@ -32,9 +32,9 @@ git commit -m "new readme.md files"
 * 推送 `git push -u origin master`
 * `git clone`
 
-## 分支管理
+## Branch
 
-### 创建与合并分支
+### New Branch and Merge
 
 * 创建`dev`分支并切换到`dev`分支: `git checkout -b dev`
 * 等价于
