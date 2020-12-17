@@ -30,3 +30,14 @@ git commit -m "new readme.md files"
 * GitHub 新建 Repository *learngit*
 * 关联远程Repository `git remote add origin git@github.com:username/learngit.git`
 * 推送 `git push -u origin master`
+* `git clone`
+
+## 分支管理
+
+* 创建`dev`分支并切换到`dev`分支: `git checkout -b dev`
+* 等价于
+
+  ```
+  git branch dev
+  git checkout dev
+  ```
