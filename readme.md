@@ -22,3 +22,11 @@ git commit -m "new readme.md files"
 * `git checkout -- file` 丢弃工作区的修改
 * `git reset HEAD <file>` 撤销暂存区的修改，重新放回工作区
 * 删除文件 `git rm <files>`
+
+## Remote Repository
+
+* 创建SSH Key `ssh-keygen -t rsa -C "youremail@example.com"`
+* 注册 GitHub,添加 SSH Pub Key
+* GitHub 新建 Repository *learngit*
+* 关联远程Repository `git remote add origin git@github.com:username/learngit.git`
+* 推送 `git push -u origin master`
