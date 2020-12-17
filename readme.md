@@ -41,3 +41,6 @@ git commit -m "new readme.md files"
   git branch dev
   git checkout dev
   ```
+* `git checkout master`
+* `git merge dev`
+* 删除dev分支：`git branch -d dev`
