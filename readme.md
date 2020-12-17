@@ -8,10 +8,10 @@ This file is my note for git learning.
 2. `git add <file>`
 3. `git commit -m <message>`
 
-```python
-git add readme.md
-git commit -m "new readme.md files"
-```
+   ```python
+   git add readme.md
+   git commit -m "new readme.md files"
+   ```
 
 * 查看状态 `git status`
 * 查看不同 `git diff`
