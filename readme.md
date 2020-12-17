@@ -34,6 +34,8 @@ git commit -m "new readme.md files"
 
 ## 分支管理
 
+### 创建与合并分支
+
 * 创建`dev`分支并切换到`dev`分支: `git checkout -b dev`
 * 等价于
 
