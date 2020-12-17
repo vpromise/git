@@ -1,4 +1,4 @@
-# learn Git Note
+# Learn Git Note
 
 This file is my note for git learning.
 
