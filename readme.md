@@ -54,3 +54,5 @@ This file is my note for git learning.
 * 删除分支 `git branch -d <name>`
 
 new line
+
+new line 2
