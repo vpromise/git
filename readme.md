@@ -52,3 +52,5 @@ This file is my note for git learning.
 * 创建+切换分支 `git checkout -b <name>`或者`git switch -c <name>`
 * 合并某分支到当前分支 `git merge <name>`
 * 删除分支 `git branch -d <name>`
+
+something from fix branch
