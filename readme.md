@@ -57,3 +57,4 @@ This file is my note for git learning.
 * `git stash apply` 恢复，但stash内容并不删除，需要用 `git stash drop` 来删除
 * 或者用 `git stash pop`，恢复的同时把stash内容也删除了
 * `cherry-pick` 复制一个特定的提交到当前分支
+* 通过 `git branch -D <name>` 强行删除没有被合并过的分支
