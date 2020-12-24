@@ -53,3 +53,7 @@ This file is my note for git learning.
 * 合并某分支到当前分支 `git merge <name>`
 * 删除分支 `git branch -d <name>`
 * `git merge --no-ff -m "merge with no-ff" dev`
+* `git stash` “储藏”当前工作现场,`git stash list` 查看
+* `git stash apply` 恢复，但stash内容并不删除，需要用 `git stash drop` 来删除
+* 或者用 `git stash pop`，恢复的同时把stash内容也删除了
+* `cherry-pick` 复制一个特定的提交到当前分支
