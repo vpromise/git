@@ -75,3 +75,5 @@ This file is my note for git learning.
 * 删除标签 `git tag -d <tagname>`
 * 标签都只存储在本地，不会自动推送到远程。如果要推送某个标签到远程，使用命令 `git push origin <tagname>`
 * 一次性推送全部尚未推送到远程的本地标签 `git push origin --tags`
+* `git tag -d <tagname>` 删除一个本地标签
+* `git push origin :refs/tags/<tagname>` 删除一个远程标签
