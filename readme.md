@@ -69,3 +69,9 @@ This file is my note for git learning.
 
 * `git tag <name>` 就可以打一个新标签
 * `git tag` 查看所有标签
+* 为历史提交 commit 打标签，找到 commit id `git tag <name> ommit_id`
+* `git show <tagname>` 查看标签信息
+* `git tag -a <tagname> -m "blablabla..."` 指定标签信息
+* 删除标签 `git tag -d <tagname>`
+* 标签都只存储在本地，不会自动推送到远程。如果要推送某个标签到远程，使用命令 `git push origin <tagname>`
+* 一次性推送全部尚未推送到远程的本地标签 `git push origin --tags`
