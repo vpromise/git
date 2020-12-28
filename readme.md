@@ -79,4 +79,4 @@ This file is my note for git learning.
 * `git push origin :refs/tags/<tagname>` 删除一个远程标签
 
 ## Others
-* 忽略文件或文件夹，新建`.gitignore`文件，将不需要追踪的文件和文件夹写入
+* 忽略文件或文件夹，新建 `.gitignore` 文件，将不需要追踪的文件和文件夹写入
