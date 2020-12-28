@@ -80,3 +80,4 @@ This file is my note for git learning.
 
 ## Others
 * 忽略文件或文件夹，新建 `.gitignore` 文件，将不需要追踪的文件和文件夹写入
+* `VSCode` 配置`git`
