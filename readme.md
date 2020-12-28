@@ -38,7 +38,6 @@ This file is my note for git learning.
 
 * 创建`dev`分支并切换到`dev`分支: `git checkout -b dev`
 * 等价于
-
   ```
   git branch dev
   git checkout dev
@@ -79,5 +78,6 @@ This file is my note for git learning.
 * `git push origin :refs/tags/<tagname>` 删除一个远程标签
 
 ## Others
+
 * 忽略文件或文件夹，新建 `.gitignore` 文件，将不需要追踪的文件和文件夹写入
 * `VSCode` 配置`git`
